@@ -1,1 +1,13 @@
 github로 협업하기
+
+폴더로 접속 cd board-project/git/day03
+깃 레포지토리 만들기 git init
+임시저장 git add .
+첫번째커밋으로 최종저장 git commit -m '첫번째커밋'
+branch 이름 변경 git branch -m main
+변경된 것 확인 git branch
+원격저장소와 연결 git remote add origin 주소 
+원격저장소에 업로드 git push -u origin main
+
+
+
